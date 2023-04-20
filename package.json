@@ -1,0 +1,24 @@
+{
+  "name": "apiko-test",
+  "version": "1.0.0",
+  "description": "apiko test task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superpooperxxx/apiko-test.git"
+  },
+  "author": "Kyrylo Haiduk <haidukwork@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superpooperxxx/apiko-test/issues"
+  },
+  "homepage": "https://github.com/superpooperxxx/apiko-test#readme",
+  "dependencies": {
+    "axios": "^1.3.6",
+    "dotenv": "^16.0.3"
+  }
+}
